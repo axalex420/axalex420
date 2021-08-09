@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-axalex420/axalex420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+axalex420/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 import os
